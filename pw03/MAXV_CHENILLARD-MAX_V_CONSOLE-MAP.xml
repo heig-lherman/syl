@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LogisimGoesFPGABoardMapInformation>
+   <GlobalMapInformation BoardName="MAX_V_CONSOLE" ToplevelCircuitName="MAXV_CHENILLARD"/>
+   <MAPPEDCOMPONENT_1 Height="19" Key="BUS: /led_o#Pin0" LocationX="630" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_2 Height="19" Key="BUS: /led_o#Pin1" LocationX="610" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_3 Height="19" Key="BUS: /led_o#Pin2" LocationX="592" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_4 Height="19" Key="BUS: /led_o#Pin3" LocationX="570" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_5 Height="19" Key="BUS: /led_o#Pin4" LocationX="552" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_6 Height="19" Key="BUS: /led_o#Pin5" LocationX="532" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_7 Height="19" Key="BUS: /led_o#Pin6" LocationX="511" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_8 Height="19" Key="BUS: /led_o#Pin7" LocationX="491" LocationY="21" Width="15"/>
+   <MAPPEDCOMPONENT_9 Height="23" Key="BUS: /switch_i#Pin0" LocationX="629" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_a Height="23" Key="BUS: /switch_i#Pin1" LocationX="610" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_b Height="23" Key="BUS: /switch_i#Pin2" LocationX="591" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_c Height="23" Key="BUS: /switch_i#Pin3" LocationX="573" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_d Height="23" Key="BUS: /switch_i#Pin4" LocationX="552" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_e Height="23" Key="BUS: /switch_i#Pin5" LocationX="531" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_f Height="23" Key="BUS: /switch_i#Pin6" LocationX="510" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_10 Height="23" Key="BUS: /switch_i#Pin7" LocationX="490" LocationY="86" Width="15"/>
+   <MAPPEDCOMPONENT_11 Height="24" Key="DIPSWITCH: /entree_i" LocationX="169" LocationY="256" Width="79"/>
+   <MAPPEDCOMPONENT_12 Height="8" Key="PIN: /clk_i" LocationX="425" LocationY="153" Width="8"/>
+   <MAPPEDCOMPONENT_13 Height="22" Key="PIN: /load_i#Button0" LocationX="6" LocationY="148" Width="18"/>
+   <MAPPEDCOMPONENT_14 Height="27" Key="PIN: /nReset_i#Button0" LocationX="76" LocationY="181" Width="28"/>
+</LogisimGoesFPGABoardMapInformation>
